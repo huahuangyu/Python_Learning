@@ -24,11 +24,16 @@
 
    <img src="picture/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E9%9B%B6%E5%9F%BA%E7%A1%80%E4%B8%80%E6%9C%AC%E9%80%9A/image-20210904210422260.png" alt="image-20210904210422260" style="zoom:50%;" />
 
-2. 
 
 ## 第3章 Python的基本数据类型
 
+1. ord(x)：可以返回函数字符参数x的Unicode码值。
 
+2. 将Unicode字符串转成bytes数据称为**编码**，使用的是**encode()**函数
+
+   ![image-20210905222130862](picture/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E9%9B%B6%E5%9F%BA%E7%A1%80%E4%B8%80%E6%9C%AC%E9%80%9A/image-20210905222130862.png)将bytes数据转成Unicode字符串称为**译码**，使用的是**decode()**函数。
+
+3. 
 
 ## 第4章 基本输入与输出
 
